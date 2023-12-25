@@ -11,9 +11,9 @@
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work with Cybersecurity.
 </p>
 
-# <img src="https://th.bing.com/th/id/OIP.FqURK5VUFbkev68fT99gLQAAAA?rs=1&pid=ImgDetMain" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 3º Semestre da Graduação
+# <img src="https://th.bing.com/th/id/OIP.FqURK5VUFbkev68fT99gLQAAAA?rs=1&pid=ImgDetMain" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 3º Semester of graduation
 
-<br> 🗓️ 02/2023 - Até Agora
+<br> 🗓️ 02/2023 - Now
 
 <!-- Dropdown -->
 <details>
@@ -52,12 +52,12 @@
 
 </div>
 
-# 📊 Estátisticas GitHub:
+# 📊 Github Statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=RodrigoSilvaPereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoSilvaPereira&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSilvaPereira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Troféus GitHub
+## 🏆 Github trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=RodrigoSilvaPereira&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
