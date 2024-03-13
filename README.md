@@ -8,7 +8,7 @@
 
   - 🌱 I'm currently studying Multiplatform Software Development at Fatec Registro
     
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with Cybersecurity.
+  - 🔭 I'm looking to delve deeper into the programming field. My dream is to one day work in Cybersecurity.
 </p>
 
 # <img src="https://th.bing.com/th/id/OIP.FqURK5VUFbkev68fT99gLQAAAA?rs=1&pid=ImgDetMain" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 3º Semester of graduation
@@ -19,7 +19,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have basic knowledge in English and practical knowledge in SQL, Java, PHP and Web Development. I am also a computer teacher in a course school, which has helped me develop important skills such as creativity, communication, versatility, analytical ability, and resourcefulness in speaking.
+  - 💬 I am 18 years old and currently live in Brazil. I have basic knowledge in English and practical knowledge in SQL, NoSQL, Java, JavaScript, Python and Web Development. I am currently an intern in the Compass UOL scholarship program, working in the area of ​​cloud computing, deepening my knowledge in Linux, Python and AWS Clouding
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or anything with words, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem solving. \o/
 </details>
