@@ -11,7 +11,7 @@
   - 🔭 I'm looking to delve deeper into the programming field. My dream is to one day work in Cybersecurity.
 </p>
 
-# <img src="https://th.bing.com/th/id/OIP.FqURK5VUFbkev68fT99gLQAAAA?rs=1&pid=ImgDetMain" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 4º Semester of graduation
+# <img src="https://th.bing.com/th/id/OIP.FqURK5VUFbkev68fT99gLQAAAA?rs=1&pid=ImgDetMain" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 5º Semester of graduation
 
 <br> 🗓️ 02/2023 - Now
 
