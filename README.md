@@ -18,10 +18,10 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
+💬 I am 19 years old and currently live in Brazil. I have basic knowledge in English and practical knowledge in SQL. I am currently working as a Data Engineer and Analyst at Compass UOL, specializing in Data & AI, with experience in Talend, SQL, Cloud Computing, ETL and ELT, and tools like Power BI and QuickSight. I am also deepening my knowledge in Big Data and Artificial Intelligence.
 
-  - 💬 I am 19 years old and currently live in Brazil. I have basic knowledge in English and practical knowledge in SQL, NoSQL, Java, JavaScript, Python and Web Development. I am currently an intern in the Compass UOL scholarship program, working in the area of ​​cloud computing, deepening my knowledge in Linux, Python, data analysis and AWS Clouding
+⚡ I enjoy reading, whether it's a good book, manga, or anything with words, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem-solving.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or anything with words, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem solving.
 </details>
 
 <div style="display: inline_block"><br>
