@@ -66,8 +66,6 @@ Além da tecnologia, gosto de leitura (livros e mangás), filmes e jogos — acr
 
 ## 📊 Estatísticas do GitHub
 
-![RodrigoSilvaPereira GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSilvaPereira&show_icons=true&theme=gotham)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoSilvaPereira&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSilvaPereira&layout=compact&theme=dark)
 
