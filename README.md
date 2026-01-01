@@ -11,14 +11,12 @@
   - 🔭 I'm looking to delve deeper into the programming field. My dream is to one day work in Cybersecurity.
 </p>
 
-# <img src="https://th.bing.com/th/id/OIP.FqURK5VUFbkev68fT99gLQAAAA?rs=1&pid=ImgDetMain" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 5º Semester of graduation
-
-<br> 🗓️ 02/2023 - Now
-
+# <img src="https://th.bing.com/th/id/OIP.FqURK5VUFbkev68fT99gLQAAAA?rs=1&pid=ImgDetMain" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left"> 
+Multiplatform Software Developer
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
-💬 I am 19 years old and currently live in Brazil. I have basic knowledge in English and practical knowledge in SQL. I am currently working as a Data Engineer and Analyst at Compass UOL, specializing in Data & AI, with experience in Talend, SQL, Cloud Computing, ETL and ELT, and tools like Power BI and QuickSight. I am also deepening my knowledge in Big Data and Artificial Intelligence.
+💬 I am 20 years old and currently live in Brazil. I have basic knowledge in English and practical knowledge in SQL. I am currently working as a Data Engineer and Analyst at Compass UOL, specializing in Data & AI, with experience in Talend, SQL, Cloud Computing, ETL and ELT, and tools like Power BI and QuickSight. I am also deepening my knowledge in Big Data and Artificial Intelligence.
 
 ⚡ I enjoy reading, whether it's a good book, manga, or anything with words, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem-solving.
 
