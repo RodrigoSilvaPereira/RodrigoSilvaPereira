@@ -17,9 +17,6 @@
 
 ---
 
-# <img src="https://tse4.mm.bing.net/th/id/OIP.nmjvUizoDol8VyA_gokcQwHaC9?rs=1&pid=ImgDetMain&o=7&rm=3" width="75px" style="margin: 0 15px 0 0; border-radius: 99%" align="left">
-Engenheiro e Analista de Dados
-
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
