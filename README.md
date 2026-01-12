@@ -1,50 +1,51 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá, mundo 👋</h1></summary>
+<div align="center">
+  <h1>Olá, mundo 👋</h1>
 </div>
 
-<p>
-  Olá! Eu sou o <strong>Rodrigo</strong>, Engenheiro e Analista de Dados, formado em Desenvolvimento de Software Multiplataforma, com foco em <strong>Dados, Cloud e Big Data</strong>.
-</p>
+## 👨‍💻 Sobre mim
 
-<p>
-  🎓 <strong>Formação:</strong> Tecnólogo em Desenvolvimento de Software Multiplataforma – Fatec Registro  
-  <br>
-  💼 <strong>Atuação atual:</strong> Data Engineer & Data Analyst na Compass UOL (Data & AI)  
-  <br>
-  🚀 <strong>Interesses:</strong> Engenharia de Dados, Big Data, Cloud Computing, ETL/ELT e Inteligência Artificial
-</p>
+Olá! Eu sou o **Rodrigo**, **Engenheiro e Analista de Dados**, formado em **Desenvolvimento de Software Multiplataforma**, com foco em **Engenharia de Dados, Cloud Computing e Big Data**.
+
+Atuo profissionalmente na área de dados, desenvolvendo **pipelines de dados escaláveis**, **processos ETL/ELT**, **modelagem de dados** e **análises orientadas a negócio**, sempre aplicando boas práticas de engenharia, qualidade e governança de dados.
+
+🎓 **Formação:** Tecnólogo em Desenvolvimento de Software Multiplataforma — Fatec Registro  
+💼 **Atuação atual:** Instrutor de Python (Kodland) 
+🚀 **Interesses:** Engenharia de Dados, Big Data, Cloud, Arquiteturas de Dados e Inteligência Artificial  
 
 ---
 
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
+## 🧠 Atuação Técnica
 
-Atuo profissionalmente como **Engenheiro e Analista de Dados**, com experiência prática em **pipelines de dados**, **ETL e ELT**, **modelagem de dados**, **SQL avançado** e **ambientes em nuvem**.
+Tenho experiência prática com:
 
-Possuo experiência com ferramentas e tecnologias como **Python**, **SQL**, **Talend**, **Power BI**, **Amazon QuickSight**, **Docker** e **AWS**, sempre aplicando boas práticas de engenharia, qualidade de dados e foco em valor de negócio.
+- **Engenharia de Dados**
+  - Construção de pipelines ETL e ELT
+  - Integração e transformação de dados
+  - Modelagem relacional e analítica
+  - Qualidade e consistência de dados
 
-Atualmente, estou aprofundando meus estudos em **Big Data**, **Arquiteturas de Dados** e **Inteligência Artificial**, com o objetivo de evoluir continuamente como profissional da área de dados.
+- **Análise de Dados**
+  - SQL avançado para exploração e análise
+  - Dashboards e visualização de dados
+  - Geração de insights orientados a negócio
 
-Além da tecnologia, gosto de leitura (livros e mangás), filmes e jogos — acredito que pensamento crítico e criatividade fazem parte da resolução de problemas complexos.
-</details>
+- **Cloud & DevOps**
+  - Arquiteturas em nuvem (AWS)
+  - Containers com Docker
+  - Ambientes Linux
+
+Atualmente, estou aprofundando meus estudos em **Big Data**, **arquiteturas modernas de dados** e **Inteligência Artificial**, buscando evolução contínua como engenheiro de dados.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Docker" height="35" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="35" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Linux" height="35" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+**Principais ferramentas e stacks:**
+- Python, SQL  
+- Talend  
+- Power BI, Amazon QuickSight  
+- AWS (serviços de dados e infraestrutura)  
+- Docker, Linux  
 
 ---
 
@@ -52,13 +53,13 @@ Além da tecnologia, gosto de leitura (livros e mangás), filmes e jogos — acr
 
 <div> 
   <a href="https://instagram.com/Rodr1gosilv" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:2005rodrigosilva@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rohsilva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -66,11 +67,18 @@ Além da tecnologia, gosto de leitura (livros e mangás), filmes e jogos — acr
 
 ## 📊 Estatísticas do GitHub
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoSilvaPereira&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSilvaPereira&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoSilvaPereira&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSilvaPereira&layout=compact&theme=dark" />
+</p>
 
 ---
 
 ## 🏆 Conquistas
 
-![](https://github-profile-trophy.vercel.app/?username=RodrigoSilvaPereira&theme=alduin&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoSilvaPereira&theme=alduin&margin-w=4" />
+</p>
